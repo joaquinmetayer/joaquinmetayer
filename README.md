@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
+I'm Joaquín Metayer from Cordoba, Argentina.
 
-<!--
-**joaquinmetayer/joaquinmetayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entrepreneur in the world of technology, lover of simplicity.<br>
+Currently in my career as a full stack developer within the <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp.<br>
+During free time in my side project forex trading <a href="https://www.instagram.com/2388hc/">"2388HC"</a>.
+In this blog my thoughts, opinions, processes and all my experience.
+					<ul>
+						<!--<li><a href="">Linkedin</a></li> /!-->
+						<li><a href="mailto:joaquinmetayer@gmail.com" target="_blank">Email</a></li>
+						<li><a href="https://t.me/joaquinmetayer" target="_blank">Telegram</a></li>
+						<li><a href="https://api.whatsapp.com/send?phone=5493518024289" target="_blank">WhatsApp</a></li>
+						<li><a href="https://www.instagram.com/joaquinmetayer/" target="_blank">Instagram</a></li>
