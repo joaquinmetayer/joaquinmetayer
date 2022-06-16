@@ -5,7 +5,7 @@ A entrepreneur in search of creating solutions through technologies in a systema
 
 Currently in my career as a full stack developer within the <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp.<br>
 
-In <a href="https://joaquinmetayer.github.io/personalblog">this</a> blog my thoughts, opinions, processes and all my experience.
+In <a href="https://joaquinmetayer.github.io/personalblog">this</a> blog (it's in spanish) my thoughts, opinions, processes and all my experience.
 
 <ul>
 <li><a href="mailto:joaquinmetayer@gmail.com" target="_blank">Email</a></li>
