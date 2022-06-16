@@ -15,4 +15,4 @@ In <a href="https://joaquinmetayer.github.io/personalblog">this</a> blog my thou
 <li><a href="https://www.instagram.com/joaquinmetayer/" target="_blank">Instagram</a></li>
 </ul>
 
-*Simplicity, the big rule.*
+Simplicity is the rule.
