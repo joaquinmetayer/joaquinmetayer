@@ -1,7 +1,7 @@
 ### Hi there!
 
 I'm **Joaquín Metayer** from Cordoba, Argentina.<br>
-Entrepreneur lover of simplicity.
+A entrepreneur in search of creating solutions through technologies in a systematic and simple way on real world.<br>
 
 Currently in my career as a full stack developer within the <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp.<br>
 
@@ -14,3 +14,5 @@ In <a href="https://joaquinmetayer.github.io/personalblog">this</a> blog my thou
 <li><a href="https://joaquinmetayer.github.io/personalblog" target="_blank">Personal Blog</a></li>
 <li><a href="https://www.instagram.com/joaquinmetayer/" target="_blank">Instagram</a></li>
 </ul>
+
+*Simplicity is the big rule!*
