@@ -1,7 +1,7 @@
 ### Hi there!
 
 I'm Joaquín Metayer from Cordoba, Argentina.<br>
-A entrepreneur in search of creating solutions through technologies in a systematic and simple way on real world.<br>
+A entrepreneur creating solutions through technologies in a simple way on real world.<br>
 
 Currently in my career as a full stack developer within the <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp.<br>
 
