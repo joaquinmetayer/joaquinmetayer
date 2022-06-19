@@ -14,5 +14,3 @@ In <a href="https://joaquinmetayer.github.io/personalblog">this</a> blog (it's i
 <li><a href="https://joaquinmetayer.github.io/personalblog" target="_blank">Personal Blog</a></li>
 <li><a href="https://www.instagram.com/joaquinmetayer/" target="_blank">Instagram</a></li>
 </ul>
-
-Simplicity is the rule.
