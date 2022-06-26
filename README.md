@@ -4,7 +4,7 @@ I'm Joaquín Metayer from Cordoba, Argentina.
 
 An entrepreneur who loves simplicity.
 
-Currently in my career as a full stack developer within the <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp.
+Currently studying for admission <a href="https://www.soyhenry.com/">Soy Henry</a> bootcamp as a full stack developer.
 
 In my free time I dedicate it to my trading hobby / personal project called <a href="https://joaquinmetayer.github.io/2388hc/">2388HC</a>, create content on my <a href="https://joaquinmetayer.github.io/personalblog">Personal Blog</a> and <a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ" >YouTube channel</a> (in Spanish) and drink a lot of coffee!
 
