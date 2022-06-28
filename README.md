@@ -13,7 +13,7 @@ Contact me by email <a href="mailto:joaquinmetayer@gmail.com">joaquinmetayer@gma
 If you wanna know more about me, check:
 <ul>
 <li><a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ">YouTube Channel</a></li>
-<li><a href="https://joaquinmetayer.github.io/personalblog">Personal Blog </a></li>
+<li><a href="https://joaquinmetayer.github.io/personalweb">Personal Web </a></li>
 <li><a href="https://www.instagram.com/joaquinmetayer/">Instagram</a></li>
 <li><a href="https://joaquinmetayer.github.io/2388hc/">2388HC</a></li>
 <li><a href="https://www.mql5.com/en/users/joaquinmetayer/seller">MQL5</a></li>
