@@ -4,7 +4,7 @@ I'm Joaquín Metayer from Cordoba, Argentina.
 
 An entrepreneur who loves simplicity.
 
-Currently self-taught a full stack development.
+Currently self-taught a full stack development on <a href="https://freecodecamp.org/">FreeCodeCamp</a>.
 
 In my free time I dedicate it to my trading hobby and personal project called <a href="https://joaquinmetayer.github.io/2388hc/">2388HC</a>, create content on my <a href="https://joaquinmetayer.github.io/personalweb">Personal Web</a>, <a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ" >YouTube channel</a> (in Spanish) and drink a lot of coffee!
 
@@ -14,6 +14,7 @@ If you wanna know more about me, check:
 <ul>
 <li><a href="https://www.youtube.com/channel/UChepHxgZmukOteW-6c796wQ">YouTube Channel</a></li>
 <li><a href="https://joaquinmetayer.github.io/personalweb">Personal Web </a></li>
+<li><a href="https://joaquinmetayer.github.io/freecodecamp/">FreeCodeCamp Projects</a>
 <li><a href="https://www.instagram.com/joaquinmetayer/">Instagram</a></li>
 <li><a href="https://joaquinmetayer.github.io/2388hc/">2388HC</a></li>
 <li><a href="https://www.mql5.com/en/users/joaquinmetayer/seller">MQL5</a></li>
