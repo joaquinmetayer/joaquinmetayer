@@ -1,7 +1,6 @@
 ### Hello!
 
 I'm Joaquín Metayer from Cordoba, Argentina.
-
 An entrepreneur who loves simplicity.
 
 Currently self-taught a full stack development on <a href="https://freecodecamp.org/">FreeCodeCamp</a>.
