@@ -9,4 +9,4 @@ I'm Joaquín from Argentina.
 ### Contact
 By email <a href="mailto:joaquinmetayer@gmail.com">joaquinmetayer@gmail.com</a>.
 
-Find all of my socials and resume in my [website](https://joaquinmetayer.github.io/personalweb/contact).
+Find all of my socials and resume in my [website](https://joaquinmetayer.github.io/personalweb/about).
