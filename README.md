@@ -1,7 +1,6 @@
 ## Hello!
 
-I'm Joaquín Metayer from Cordoba, Argentina.
-
+I'm Joaquín Metayer from Cordoba, Argentina.<br>
 Entrepreneur lover of simplicity.
 
 * Currently in my career as a developer. Future objective of developing in web3, but as before I must go through a learning process... I am studying for Frontend, then full stack and finally adding the most used technologies in web3 such as Python and Solidiy.
