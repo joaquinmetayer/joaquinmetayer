@@ -8,4 +8,4 @@ I'm Joaquín Metayer from Cordoba, Argentina.
 ### Contact
 By email <a href="mailto:joaquinmetayer@gmail.com">joaquinmetayer@gmail.com</a>.
 
-Find all of my socials, links and resume in my [website](https://joaquinmetayer.com/pages/contact).
+Find all of my socials, links and resume in my [website](https://joaquinmetayer.com/pages/contact.html).
