@@ -11,4 +11,4 @@ By email <a href="mailto:info@joaquinmetayer.com">**info@joaquinmetayer.com**</a
 
 <a href="https://www.linkedin.com/in/joaquinmetayer/" target="_blank">**LinkedIn**</a>
 
-Find more in my **[website](https://joaquinmetayer.com/)**.
+**Find more in my [website](https://joaquinmetayer.com/)**.
