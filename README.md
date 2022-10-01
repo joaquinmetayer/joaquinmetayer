@@ -17,6 +17,8 @@ By email <a href="mailto:info@joaquinmetayer.com">**info@joaquinmetayer.com**</a
 
 <a href="https://www.linkedin.com/in/joaquinmetayer/" target="_blank">**LinkedIn**</a>
 
+**Portfolio on www.joaquinmetayer.com** and resume <a href="www.joaquinmetayer.com/resumen.pdf">here</a>
+
 And find me on <a href="https://www.youtube.com/c/joaquinmetayer" target="_blank">**YouTube**</a>
 
 ##
