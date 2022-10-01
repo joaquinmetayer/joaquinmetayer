@@ -1,6 +1,6 @@
 # <p align="center"> joaquin metayer </p>
 
-I'm Joaquín Metayer from, Argentina.
+I'm Joaquín Metayer from Argentina.
 
 Currently in my career as a **frontend developer**, target to fullstack and web3.
 
