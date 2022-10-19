@@ -17,7 +17,9 @@ Tools Git / GitHub / Scrum
 
 English level B1
 
-**Proyects on my website www.joaquinmetayer.com**
+## Proyects 
+On my website **www.joaquinmetayer.com**
+
 ## Contact
 By email <a href="mailto:info@joaquinmetayer.com">**info@joaquinmetayer.com**</a>
 
