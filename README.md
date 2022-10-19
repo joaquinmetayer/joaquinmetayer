@@ -9,7 +9,13 @@ Passionate about technology, entrepreneurship and simplifying processes.
 I have a <a href="https://www.youtube.com/c/joaquinmetayer" target="_blank">**YouTube channel**</a> and a <a href="https://joaquinmetayer.com/blog.html" target="_blank">**blog**</a> (in Spanish) talking about programming, technology and related topics.
 
 ## Skills
-HTML / CSS / SASS / Bootstrap / JavaScript / Git / GitHub
+Languages HTML / CSS / JavaScript
+
+Libraries SASS / Bootstrap / React
+
+Tools Git / GitHub / Scrum
+
+English level B1
 
 **Proyects on my website www.joaquinmetayer.com**
 ## Contact
