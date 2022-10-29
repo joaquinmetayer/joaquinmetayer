@@ -15,8 +15,6 @@ SASS / Bootstrap
 
 Git / GitHub / Scrum
 
-English level B1
-
 ## Contact
 By email <a href="mailto:info@joaquinmetayer.com">**info@joaquinmetayer.com**</a>
 
