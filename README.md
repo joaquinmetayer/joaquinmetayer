@@ -1,1 +1,1 @@
-### Find all on  www.joaquinmetayer.com ###
+### find info on  www.joaquinmetayer.com ###
