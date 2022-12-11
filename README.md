@@ -1,1 +1,1 @@
-### <a href="https://joaquinmetayer.com/" target="_blank">joaquinmetayer.com</a>  ###
+### <a href="https://joaquinmetayer.com/">joaquinmetayer.com</a>  ###
