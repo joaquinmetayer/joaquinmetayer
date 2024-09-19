@@ -1,3 +1,5 @@
-## Hi there 👋
+<div align="center">
 
-### Find more about me on my website <a target="_blank" href="https://jometa.dev">jometa.dev</a>
+### Hi there! 👋 Find more on [jometa.dev](https://jometa.dev)
+
+</div>
